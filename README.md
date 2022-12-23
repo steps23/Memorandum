@@ -1,2 +1,2 @@
 # Memorandum
-Memo app fro android (parma university project MobDev 2022) 
+Memo app for android (parma university project MobDev 2022) 
